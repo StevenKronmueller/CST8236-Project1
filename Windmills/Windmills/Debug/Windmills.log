@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\user\skydrive\cet-work\semester6\cst8236\windmills\windmills\main.cpp(21): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+c:\users\user\skydrive\cet-work\semester6\cst8236\windmills\windmills\main.cpp(29): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+c:\users\user\skydrive\cet-work\semester6\cst8236\windmills\windmills\main.cpp(37): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+  Windmills.vcxproj -> C:\Users\User\SkyDrive\CET-Work\Semester6\CST8236\Windmills\Windmills\Debug\Windmills.exe
+  Windmills.vcxproj -> C:\Users\User\SkyDrive\CET-Work\Semester6\CST8236\Windmills\Windmills\Debug\Windmills.pdb (Partial PDB)
